@@ -1,0 +1,4 @@
+baseURL = 'https://diogo-pessoa.github.io/'
+languageCode = 'en-us'
+title = 'Diogo Pessoa'
+theme = "hugo-coder"
