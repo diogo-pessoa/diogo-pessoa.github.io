@@ -74,5 +74,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/master'
+        continue-on-error: true
         id: deployment
         uses: actions/deploy-pages@v4
