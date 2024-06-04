@@ -1,7 +1,9 @@
 My personal Page
 ----
 
-Source code for my personal page diogo-pessoa.github.io
+[![Deploy Hugo site to Pages](https://github.com/diogo-pessoa/diogo-pessoa.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/diogo-pessoa/diogo-pessoa.github.io/actions/workflows/hugo.yml)
+
+Source code for my personal page [diogo-pessoa.github.io](https://diogo-pessoa.github.io/)
 
 
 ## Development
