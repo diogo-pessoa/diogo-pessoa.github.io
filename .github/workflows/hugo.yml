@@ -73,7 +73,7 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
         continue-on-error: true
         id: deployment
         uses: actions/deploy-pages@v4
