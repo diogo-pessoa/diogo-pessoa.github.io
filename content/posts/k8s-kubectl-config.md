@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = "2024-06-01"
 title = "kubectl context usage"
 description = "Preparation for CKA exam - notes with kubectl config and context commands"
