@@ -1,9 +1,10 @@
 +++
 draft = false
 date = 2024-06-04
-title = "Big O Notation Interview Prep"
-description = "Notes from my interview prep on Big O Notation topic."
-slug = "BigO-interview-prep"
+title = "Big O Notation notes"
+description = "Notes from my interview preparation on Big O Notation topic."
+slug = "BigO-notation"
+url = "posts/BigO-notation"
 authors = ["Diogo Pessoa"]
 tags = ["interview-prep", "big-o", "algorithms"]
 categories = ["interview-prep", "algorithms", "coding"]

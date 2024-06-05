@@ -4,6 +4,7 @@ date = 2024-06-04
 title = "Big O for Python lists"
 description = ""
 slug = "Python-lists-BigO"
+url = "posts/Python-lists-BigO"
 authors = ["Diogo Pessoa"]
 tags = ["interview-prep", "big-o", "algorithms", "python", "lists"]
 categories = ["interview-prep", "algorithms", "coding", "python"]
