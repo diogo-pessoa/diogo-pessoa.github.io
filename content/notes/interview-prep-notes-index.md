@@ -14,7 +14,7 @@ categories = ["coding", "interview-prep"]
 {{< toc >}}
 
 ## Coding interviews Notes
-### [Notes on BigO notation]({{< ref "posts/BigO-notation" >}} "BigO")
-### [Notes on BigO of python list operations]({{< ref "posts/Python-lists-BigO" >}} "BigOPyLists")
+### [Notes on BigO notation]({{< ref "notes/BigO-notation" >}} "BigO")
+### [Notes on BigO of python list operations]({{< ref "notes/Python-lists-BigO" >}} "BigOPyLists")
 
 ### [My solutions to coding exercises](https://github.com/diogo-pessoa/coding-exercises-for-interviews)
