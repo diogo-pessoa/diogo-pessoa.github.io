@@ -3,11 +3,11 @@ draft = false
 date = 2024-06-05
 title = "Linked Lists"
 description = ""
-slug = "linkedLists"
+slug = "linked-lists"
+url = "linked-lists"
 authors = ["Diogo Pessoa"]
 tags = ["Data Structures", "Linked Lists", "python", "interview-prep"]
 categories = ["coding", "notes", "interview-prep"]
-url = "linked-lists-in-python"
 +++
 
 {{< toc >}}

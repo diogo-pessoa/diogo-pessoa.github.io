@@ -4,10 +4,10 @@ date = 2024-06-06
 title = "Binary Search Tree in Python"
 description = ""
 slug = "ds-trees"
+url = "ds-tree-in-python"
 authors = ["Diogo Pessoa"]
 tags = ["Data Structures", "Trees", "python", "interview-prep", "Binary Search Tree"]
 categories = ["coding", "notes", "interview-prep", "data-structures"]
-url = "ds-tree-in-python"
 +++
 
 {{< toc >}}

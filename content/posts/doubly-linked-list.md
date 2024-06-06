@@ -7,7 +7,8 @@ slug = "double-linked-list"
 authors = ["Diogo Pessoa"]
 tags = ["Data Structures", "Linked Lists", "python", "interview-prep"]
 categories = ["coding", "notes", "interview-prep", "data-structures"]
-url = "double-linked-list-in-python"
+url = "posts/double-linked-list-in-python"
 +++
 
 {{< toc >}}
+
