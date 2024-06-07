@@ -5,8 +5,7 @@ title = "Private Pensions in Ireland"
 description = ""
 slug = "private-pensions-in-ireland"
 authors = ["Diogo Pessoa"]
-tags = ["pensions", "ireland", "retirement"]
-categories = ["pensions", "ireland"]
+tags = ["finance", "ireland" ]
 url = "posts/private-pensions-in-ireland"
 +++
 
@@ -16,7 +15,7 @@ url = "posts/private-pensions-in-ireland"
 
 ### Convention used in this note
 
-### [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
 
 ## Glossary of terms
 

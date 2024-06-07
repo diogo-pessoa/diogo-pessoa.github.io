@@ -5,7 +5,7 @@ title = "Querying Kubernetes Metadata"
 description = "Preparation for CKA exam - Querying Kubernetes Metadata"
 slug = "cka-metadata"
 authors = ["Diogo Pessoa"]
-tags = ["kubernetes", "cka", "kubectl"]
+tags = ["kubernetes", "cka", "kubectl", "system-management"]
 categories = ["notes"]
 +++
 

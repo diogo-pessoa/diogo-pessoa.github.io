@@ -6,9 +6,6 @@ description = ""
 slug = "interview-prep-notes-index"
 url = "posts/interview-prep-notes-index"
 authors = ["Diogo Pessoa"]
-tags = ["interview-prep", "notes", "python", "data-structures", "algorithms", "interview"]
-categories = ["coding", "interview-prep"]
-
 +++
 
 {{< toc >}}

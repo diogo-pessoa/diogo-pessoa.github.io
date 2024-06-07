@@ -5,11 +5,19 @@ title = "Notes on System Design Interview - An Insider's Guide"
 description = ""
 slug = "system-design-interview"
 authors = ["Diogo Pessoa"]
-tags = ["book-summaries", "system-design",]
-categories = ["coding", "interview-prep"]
+tags = ["book-summaries", "system-design"]
 +++
 
 {{< toc >}}
+
+## Summary
+
+- **Book:** System Design Interview - An Insider's Guide
+- **Authors:** Alex Xu
+
+### Conventions Used in all my notes
+
+- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
 
 ## References
 

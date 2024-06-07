@@ -5,14 +5,16 @@ date = 2024-06-07
 draft = false
 slug = "programming-interviews-exposed"
 authors = ["Diogo Pessoa"]
-tags = ["book-summaries", "algorithms", "coding"]
-categories = ["coding", "interview-prep"]
+tags = ["book-summaries", "coding"]
 
 +++
 
 {{< toc >}}
 
 ## Summary
+
+- **Book:** Programming Interviews Exposed: Secrets to Landing Your Next Job
+- **Authors:** John Mongan, Noah Suojanen, and Eric Giguère
 
 The Programming interview Exposed covers the essential topics for preparing for a
 technical interview (in software development). I'm trying to capture the essence of the
@@ -21,33 +23,9 @@ preparing and sitting through an interview.
 
 ### Conventions Used in all my notes
 
-I'm borrowing the approach, I often see in O'Reilly books. I think it's really cool, and
-it helps as you reads other books following a similar convention. Here it goes:
+- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
 
-* _Italic_ - I'll use for quotations from the book: _The following typographical
-  conventions are used in this book:_
-* `code` - I'll use this for code snippets, as intended in markdowns. However, I'll also
-  use it to call attention to my personal notes.
-    * `note to self` - `[Revised]` - these notes will come in a > blockquote too.
-* `[Revised]` - yeah, that came just after the update on the previous bullet. If I'm
-  updating something, `[Revised]` will follow the change (hopefully, I'll tell me why).
-* `(random comments inline)` - yeah, it's superbad practice, but I often, add
-  comments mid-sentence `(most of them useless, see what I did here?)`. That's just how
-  my brain works, and I noticed, I enjoy my reading later when I have those. It's like
-  I'm feed my need for a distraction, by embedding it in the text. :thinking:
-    * `(I held a vote, and I won)`.
-* **Big Words Warning:** - That's for when I'm using cunning words to sound
-  sophisticated, but serves the puporse of anchoring to a familiar idea.
-* **_"Quotes"_** – author - when I'm quoting literally quoting the author, I'll use this
-  format.
-* I'll liberally use emojis, This is a personal note, get over it.
-* I might throw in some other markdown stuff, I can't think of now, and can't be
-  bothered to look up.
-    * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/) - that will do.
-* Check Glossary of terms in the end. In Technical books, there's a lot of jargon,
-  Acronyms, and contractions. All of which I often forget.
-
-## My notes
+## Notes from book
 
 ### From Chapter 3: Approach to Programming Problems
 

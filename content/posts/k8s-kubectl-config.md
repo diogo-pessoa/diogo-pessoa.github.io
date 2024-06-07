@@ -5,7 +5,7 @@ title = "kubectl context usage"
 description = "Preparation for CKA exam - notes with kubectl config and context commands"
 slug = "kubectl-context-usage"
 authors = ["Diogo Pessoa"]
-tags = ["kubernetes", "cka", "kubectl"]
+tags = ["kubernetes", "cka", "kubectl", "system-management"]
 categories = ["notes"]
 +++
 

@@ -76,7 +76,7 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Notes"
+name = "latest-posts"
 weight = 2
 url = "posts/"
 
@@ -86,14 +86,30 @@ weight = 3
 url = "tags/book-summaries/"
 
 [[languages.en.menu.main]]
-name = "all-topics"
+name = "by-tags"
 weight = 4
 url = "tags/"
 
 [[languages.en.menu.main]]
-name = "interview-prep"
+name = "coding-exercises-topics"
 weight = 5
-url = "tags/interview-prep/"
+url = "tags/coding/"
+
+
+[[languages.en.menu.main]]
+name = "system-design"
+weight = 5
+url = "tags/system-design/"
+
+[[languages.en.menu.main]]
+name = "system-management"
+weight = 6
+url = "tags/system-management/"
+
+[[languages.en.menu.main]]
+name = "machine-learning & data-analytics"
+weight = 7
+url = "tags/machine-learning/"
 
 
 

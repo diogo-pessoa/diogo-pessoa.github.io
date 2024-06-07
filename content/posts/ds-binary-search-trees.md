@@ -5,9 +5,8 @@ title = "Binary Search Tree in Python"
 description = ""
 slug = "ds-trees"
 authors = ["Diogo Pessoa"]
-tags = ["Data Structures", "Trees", "python", "interview-prep", "Binary Search Tree"]
-categories = ["coding", "notes", "interview-prep", "data-structures"]
-url = "ds-tree-in-python"
+tags = ["Data Structures", "algorithms", "python", "Binary Search Tree", "coding"]
+url = "ds-binary-search-trees-in-python"
 +++
 
 {{< toc >}}
@@ -67,7 +66,6 @@ The child node is the node that has a parent.
 #### Leaf Node
 
 The leaf node is the node that has no children.
-
 
 ### Big O Notation of Trees Operations
 

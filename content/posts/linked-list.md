@@ -5,8 +5,7 @@ title = "Linked Lists"
 description = ""
 slug = "linkedLists"
 authors = ["Diogo Pessoa"]
-tags = ["Data Structures", "Linked Lists", "python", "interview-prep"]
-categories = ["coding", "notes", "interview-prep"]
+tags = ["Data Structures", "python", "coding", ]
 url = "linked-lists-in-python"
 +++
 

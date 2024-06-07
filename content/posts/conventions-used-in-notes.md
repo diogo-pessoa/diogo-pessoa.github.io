@@ -5,13 +5,9 @@ title = "Convention used in my notes"
 description = " "
 slug = "conventions-used"
 authors = ["Diogo Pessoa"]
-tags = ["notes", "conventions"]
-categories = ["notes"]
 url = "posts/conventions-used-in-notes"
 
 +++
-
-{{< toc >}}
 
 # Summary
 

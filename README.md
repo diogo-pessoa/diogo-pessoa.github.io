@@ -18,7 +18,14 @@ Source code for my personal page [diogo-pessoa.github.io](https://diogo-pessoa.g
 To run the project locally, you need to have hugo installed. Then, run the following command:
 
 ```bash
-hugo server -D
+hugo server 
+```
+
+#### Build with drafts
+
+```bash
+hugo server --buildDrafts
+
 ```
 
 ### Deployment

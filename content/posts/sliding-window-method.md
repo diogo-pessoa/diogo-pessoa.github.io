@@ -5,8 +5,7 @@ title = "iterating over a list using the sliding window method"
 description = ""
 slug = "sliding-window-method"
 authors = ["Diogo Pessoa"]
-tags = ["python", "interview-prep", "algorithms", "coding"]
-categories = ["coding", "notes", "interview-prep"]
+tags = ["python", "algorithms", "coding"]
 url = "iterating-over-a-list-using-the-sliding-window-method"
 +++
 

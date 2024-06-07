@@ -6,10 +6,8 @@ description = ""
 slug = "Python-lists-BigO"
 url = "posts/Python-lists-BigO"
 authors = ["Diogo Pessoa"]
-tags = ["interview-prep", "big-o", "algorithms", "python", "lists"]
-categories = ["interview-prep", "algorithms", "coding", "python"]
-externalLink = ""
-series = []
+tags = ["big-o", "algorithms", "python", "lists", "coding"]
+
 +++
 
 {{<toc>}}
