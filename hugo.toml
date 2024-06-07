@@ -81,6 +81,21 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "summaries"
 weight = 3
-url = "projects/"
+url = "tags/book-summaries/"
+
+[[languages.en.menu.main]]
+name = "all-topics"
+weight = 4
+url = "tags/"
+
+[[languages.en.menu.main]]
+name = "interview-prep"
+weight = 5
+url = "tags/interview-prep/"
+
+
+
+
+
