@@ -2,39 +2,13 @@
 title = 'Programming Interviews Exposed'
 description = "Notes from the book Programming Interviews Exposed"
 date = 2024-06-07
-draft = true
+draft = false
 slug = "programming-interviews-exposed"
 authors = ["Diogo Pessoa"]
-tags = ["book-summaries", "algorithms", "coding", "notes"]
+tags = ["book-summaries", "algorithms", "coding"]
 categories = ["coding", "interview-prep"]
-url = "book-summaries/programming-interviews-exposed"
 
 +++
-
-**_Disclaimer:_**
-
-* I'm writing for future me, and intentionally structure the text as if I'm mansplaining
-  to me. Apologies if somebody else is reading this and feels confused.
-* I'll also eventually get to review the grammar, but not goal is to jot notes down, not
-  to write a
-  book. `(yet, seriously I have no intentions of writing a book. or maybe I do...)` :thinking:.
-    * why, github-pages is a great to store notes and access from everywhere.
-    * If you're reading this `(and you're not me)`. I apologize this may look chaotic.
-    * I do hope you find something useful here.
-    * If you're still reading, I'm impressed.
-        * Here's something which I hope might help. I added a convention section to help
-          understand the structure.
-* This is a collection of personal notes from my reading, resulting from
-  Interpretations, topics are revised often.
-* Many initial assumptions will be wrong and hopefully corrected.
-* I Wrote with the intention humour, these are technical notes, and letting loose will
-  help with
-  the learning process.
-* write with the assumption that I'm explaining to someone else (that someone is you, to
-  you better do a good job), this will help with understanding the topic better.
-
-`“...opinions differ significantly from arse-holes, in that yours should be constantly and thoroughly examined.”`
-**– Tim Minchin**
 
 {{< toc >}}
 
