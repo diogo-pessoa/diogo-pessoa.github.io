@@ -22,7 +22,7 @@ author = "Diogo Pessoa"
 * [linkedin](https://www.linkedin.com/in/diogopessoa/)
 * [github](https://github.com/diogo-pessoa)
 
-## If none of the above
+## none of the above
 
 If you're none of the above, and you landed here by mistake,
 
