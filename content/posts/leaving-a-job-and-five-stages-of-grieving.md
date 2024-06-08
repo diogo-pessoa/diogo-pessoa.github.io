@@ -109,7 +109,7 @@ In accepting the change, you're acknowledging the loss, and getting ready for th
 move. It doesn't mean you're happy about it. It means you're acknowledging the facts as
 they are and act within your control.
 
-#### The Story we tell ourselves
+## The Story we tell ourselves
 
 Storytelling is powerful. How we frame it influences on how we navigate
 grieving.
@@ -145,7 +145,7 @@ Here are the steps in more details:
     * When I'll
       start? `(This the most important step. Having a deadline, it makes it concrete)`
 
-#### Closure
+## Getting Closure
 
 Common definition: “act of closing or the state of being closed; a
 bringing to an end, a conclusion.”
@@ -169,7 +169,7 @@ _**Denial**_.
 When you look back on those moments with nostalgia. When the anger and
 resentment, gives way to a smile. You've found closure.
 
-## Conclusion
+## Final Thoughts
 
 _“Grief is the intense emotional response to the pain of a loss. It is the reflection of
 a connection that has been broken. Most important, grief is an emotional, spiritual, and
@@ -197,7 +197,7 @@ So if you left a bad job, there's a good chance it will get better. Lucky you!
 
 `If it gets worse, sorry to hear. Don't lose heart, Probability helps here too, in flipping coins the chances of a streak are low. So, keep flipping that coin.`
 
-### References
+## References
 
 1. Kubler-Ross, E. and Kessler, D., 2005. On grief and grieving: Finding the meaning of
    grief through the five stages of loss. Simon and Schuster.
