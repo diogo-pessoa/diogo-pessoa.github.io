@@ -5,7 +5,7 @@ title = "Five stages of grieving when leaving a job"
 description = ""
 slug = "grieving-when-leaving-a-job"
 authors = ["Diogo Pessoa"]
-tags = ["reflexions"]
+tags = ["reflections"]
 +++
 
 {{< toc >}}
