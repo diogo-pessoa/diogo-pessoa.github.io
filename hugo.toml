@@ -71,7 +71,7 @@ url = "https://www.linkedin.com/in/diogopessoa/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "latest-posts"
+name = "latest-notes"
 weight = 2
 url = "posts/"
 
