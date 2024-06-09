@@ -6,6 +6,7 @@ draft = false
 slug = "programming-interviews-exposed"
 authors = ["Diogo Pessoa"]
 tags = ["book-summaries", "coding"]
+categories = ["summary"]
 
 +++
 

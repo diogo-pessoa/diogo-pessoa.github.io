@@ -6,6 +6,7 @@ description = ""
 slug = "hash-tables-in-python"
 authors = ["Diogo Pessoa"]
 tags = ["python", "data-structures", "hash-tables", "coding"]
+categories = ["Data Structures"]
 +++
 
 {{< toc >}}

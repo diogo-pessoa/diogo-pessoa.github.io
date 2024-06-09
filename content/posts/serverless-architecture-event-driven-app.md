@@ -6,6 +6,7 @@ description = ""
 slug = "serverless-event-driven-app"
 authors = ["Diogo Pessoa"]
 tags = ["serverless-app", "event-driven", "aws", "lambda","s3", "system-design"]
+categories = ["system-design"]
 +++
 
 # Summary

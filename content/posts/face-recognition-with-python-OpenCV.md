@@ -6,5 +6,6 @@ description = ""
 slug = "face-recognition-with-python-OpenCV"
 authors = ["Diogo Pessoa"]
 tags = ["python", "opencv", "computer-vision", "machine-learning"]
+categories = ["machine-learning"]
 
 +++

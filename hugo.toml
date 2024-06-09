@@ -61,7 +61,6 @@ icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/diogo-pessoa/"
 
-
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
@@ -76,37 +75,11 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "summaries"
-weight = 3
-url = "tags/book-summaries/"
-
-[[languages.en.menu.main]]
 name = "by-tags"
 weight = 4
 url = "tags/"
 
 [[languages.en.menu.main]]
-name = "coding-exercises-topics"
-weight = 5
-url = "tags/coding/"
-
-
-[[languages.en.menu.main]]
-name = "system-design"
-weight = 5
-url = "tags/system-design/"
-
-[[languages.en.menu.main]]
-name = "system-management"
+name = "by-category"
 weight = 6
-url = "tags/system-management/"
-
-[[languages.en.menu.main]]
-name = "machine-learning & data-analytics"
-weight = 7
-url = "tags/machine-learning/"
-
-
-
-
-
+url = "categories/"

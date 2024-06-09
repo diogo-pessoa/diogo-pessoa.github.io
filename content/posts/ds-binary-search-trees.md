@@ -7,6 +7,7 @@ slug = "ds-trees"
 authors = ["Diogo Pessoa"]
 tags = ["Data Structures", "algorithms", "python", "Binary Search Tree", "coding"]
 url = "ds-binary-search-trees-in-python"
+categories = ["Data Structures"]
 +++
 
 {{< toc >}}

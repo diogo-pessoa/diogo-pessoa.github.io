@@ -6,6 +6,7 @@ description = ""
 slug = "system-design-interview"
 authors = ["Diogo Pessoa"]
 tags = ["book-summaries", "system-design"]
+categories = ["summary", "system-design"]
 +++
 
 {{< toc >}}

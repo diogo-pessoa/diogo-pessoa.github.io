@@ -7,6 +7,7 @@ slug = "private-pensions-in-ireland"
 authors = ["Diogo Pessoa"]
 tags = ["finance", "ireland" ]
 url = "posts/private-pensions-in-ireland"
+categories = ["finance"]
 +++
 
 {{< toc >}}

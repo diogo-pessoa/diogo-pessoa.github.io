@@ -7,7 +7,7 @@ slug = "BigO-notation"
 url = "posts/BigO-notation"
 authors = ["Diogo Pessoa"]
 tags = ["big-o", "algorithms", "coding"]
-
+categories = ["Data Structures", "algorithms"]
 +++
 
 {{<toc>}}

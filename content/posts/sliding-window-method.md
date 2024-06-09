@@ -6,6 +6,7 @@ description = ""
 slug = "sliding-window-method"
 authors = ["Diogo Pessoa"]
 tags = ["python", "algorithms", "coding"]
+categories = [ "algorithms"]
 url = "iterating-over-a-list-using-the-sliding-window-method"
 +++
 

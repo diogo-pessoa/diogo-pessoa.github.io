@@ -7,6 +7,7 @@ slug = "linkedLists"
 authors = ["Diogo Pessoa"]
 tags = ["Data Structures", "python", "coding", ]
 url = "linked-lists-in-python"
+categories = ["Data Structures"]
 +++
 
 {{< toc >}}

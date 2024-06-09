@@ -5,7 +5,8 @@ title = "Summary of The Linux Programming Interface"
 description = ""
 slug = "the-linux-programming-interface"
 authors = ["Diogo Pessoa"]
-tags = ["book-summaries", "linux", "unix", "system-programming"]
+tags = ["linux", "unix", "system-programming"]
+categories = ["summary"]
 +++
 
 {{< toc >}}
