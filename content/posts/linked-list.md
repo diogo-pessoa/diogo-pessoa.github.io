@@ -5,7 +5,7 @@ title = "Linked Lists"
 description = ""
 slug = "linkedLists"
 authors = ["Diogo Pessoa"]
-tags = ["Data Structures", "python", "coding", ]
+tags = ["Data Structures", "python", ]
 url = "linked-lists-in-python"
 categories = ["Data Structures"]
 +++
@@ -21,6 +21,9 @@ link) to the next node in the sequence. There is usually a head node, which is t
 element, and a tail node, which is the last element.
 In some variations, like doubly linked lists, each node also has a reference to the
 previous node, will explore on separate note.
+
+- [Conventions]({{< ref "conventions-used-in-notes" >}} "conventions-used")
+- [My basic implementation of a linked list in python](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/dataStructures/linkedlist)
 
 ## The Big O Notation of Linked Lists Operations
 

@@ -5,7 +5,7 @@ title = "Using Map, Filter and Reduce in Python"
 description = ""
 slug = "Python-map-filter-reduce"
 authors = ["Diogo Pessoa"]
-tags = ["python", "map-filter-reduce", "coding", "functional-programming"]
+tags = ["python", "map-filter-reduce", "functional-programming"]
 categories = ["functional-programming", "algorithms"]
 +++
 

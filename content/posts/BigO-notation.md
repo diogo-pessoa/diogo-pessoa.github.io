@@ -6,7 +6,7 @@ description = "Notes from my interview preparation on Big O Notation topic."
 slug = "BigO-notation"
 url = "posts/BigO-notation"
 authors = ["Diogo Pessoa"]
-tags = ["big-o", "algorithms", "coding"]
+tags = ["big-o", "algorithms"]
 categories = ["Data Structures", "algorithms"]
 +++
 

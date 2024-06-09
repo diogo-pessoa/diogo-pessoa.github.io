@@ -79,6 +79,8 @@ to understand the path I'm taking.
 
 * _While you code it's important to explain what you're doing_
 
+4. **_Ask questions when necessary_.** "_You generally won’t be penalized for asking factual questions that you might otherwise look up in a reference._"
+
 ## References
 
 * Jhu.edu. Available

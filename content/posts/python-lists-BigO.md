@@ -6,7 +6,7 @@ description = ""
 slug = "Python-lists-BigO"
 url = "posts/Python-lists-BigO"
 authors = ["Diogo Pessoa"]
-tags = ["big-o", "algorithms", "python", "lists", "coding"]
+tags = ["big-o", "algorithms", "python", "lists"]
 categories = ["Data Structures", "algorithms"]
 
 +++

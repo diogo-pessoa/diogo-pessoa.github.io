@@ -5,7 +5,7 @@ title = "Binary Search Tree in Python"
 description = ""
 slug = "ds-trees"
 authors = ["Diogo Pessoa"]
-tags = ["Data Structures", "algorithms", "python", "Binary Search Tree", "coding"]
+tags = ["Data Structures", "algorithms", "python", "Binary Search Tree"]
 url = "ds-binary-search-trees-in-python"
 categories = ["Data Structures"]
 +++
@@ -18,6 +18,9 @@ A tree is a data structure that consists of nodes connected by edges. The top no
 called the root, and the nodes below the root are called children. Each node can have
 zero or more children. The nodes that have the same parent are called siblings. The node
 at the bottom of the tree is called a leaf node.
+
+- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [My basic implementation of a binary search tree in python](https://github.com/diogo-pessoa/coding-exercises-for-interviews/blob/main/dataStructures/tree/BinarySearchTree.py)
 
 ## Types of Trees
 
@@ -49,10 +52,6 @@ node. The `right child` is greater than the parent node.
 * `Premise: left < parent < right`: If you get any node in the tree, all the nodes in
   the left subtree are less than the parent node, and all the nodes in the right subtree
   are greater than the parent node.
-
-#### Code Implementation
-
-* [coding-exercises DS/BinarySearchTree](https://github.com/diogo-pessoa/coding-exercises-for-interviews/blob/main/dataStructures/tree/BinarySearchTree.py)
 
 ### Tree Nodes types
 
