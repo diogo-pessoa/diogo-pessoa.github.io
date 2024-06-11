@@ -27,7 +27,7 @@ categories = ["algorithms"]
 #### Notes on how to approach the problem in a interview
 
 
-### tess
+### tests
 
 
 ## References

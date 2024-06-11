@@ -83,3 +83,8 @@ url = "tags/"
 name = "by-category"
 weight = 4
 url = "categories/"
+
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
