@@ -5,7 +5,7 @@ title = "Quick Sort"
 description = ""
 slug = "quick-sort"
 authors = ["Diogo Pessoa"]
-tags = ["algorithms"]
+tags = ["algorithms", "sorting"]
 categories = ["algorithms"]
 
 +++

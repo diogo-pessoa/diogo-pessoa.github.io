@@ -5,7 +5,7 @@ title = "Merge Sort"
 description = ""
 slug = "merge-sort"
 authors = ["Diogo Pessoa"]
-tags = ["algorithms"]
+tags = ["algorithms", "sorting"]
 categories = ["algorithms"]
 +++
 
