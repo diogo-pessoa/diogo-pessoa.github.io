@@ -39,9 +39,11 @@ Constant time complexity because the operation does not depend on the size of th
     print(arr) # [1, 2, 3, 4]
 ```
 
-### pop() an element from a specific index O(n).
+### pop(x) an element from a specific index O(n).
 
 Linear time complexity because the operation depends on the size of the list.
+`[Revised]` Why? because we need to shift all the elements to the left. after removing
+the element.
 
 ```python
     arr = [1, 2, 3, 4, 5]
@@ -52,7 +54,7 @@ Linear time complexity because the operation depends on the size of the list.
 ### Insert() an element at a specific index O(n).
 
 Linear time complexity because the operation depends on the size of the list.
-
+`[Revised]` Why? because it needs to shift all elements after insertion.
 even if we insert in the middle of the list, the operation will take O(n) time because
 we need to shift all the elements to the right.
 
@@ -65,7 +67,7 @@ notation.
     print(arr) # [1, 2, 10, 3, 4, 5]
 ```
 
-### search for an element by value in a list O(n).
+### Search for an element by value in a list O(n).
 
 Linear time complexity because the operation depends on the size of the list. We don't
 know where the value is.
@@ -75,10 +77,9 @@ know where the value is.
     print(arr.index(3)) # 2
 ```
 
-### search for an element by index in a list O(1).
+### Get by index in a list O(1).
 
-Constant time complexity because the operation does not depend on the size of the list.
-We go straight to the index.
+We're accessing the element by index, so it's a constant time operation.
 
 ```python
     arr = [1, 2, 3, 4, 5]
