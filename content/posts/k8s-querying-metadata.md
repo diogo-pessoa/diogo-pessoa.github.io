@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = "2024-06-01"
 title = "Querying Kubernetes Metadata"
 description = "Preparation for CKA exam - Querying Kubernetes Metadata"

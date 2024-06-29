@@ -2,7 +2,7 @@
 title = 'Programming Interviews Exposed'
 description = "Notes from the book Programming Interviews Exposed"
 date = 2024-06-07
-draft = false
+draft = true
 slug = "programming-interviews-exposed"
 authors = ["Diogo Pessoa"]
 tags = ["book-summaries", "coding"]

@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = 2024-06-10
 title = "Checking if an integers is a palindrome"
 description = "Challenge: don't convert the integer to a string."

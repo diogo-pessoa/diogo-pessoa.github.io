@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = 2024-06-06
 title = "iterating over a list using the sliding window method"
 description = ""

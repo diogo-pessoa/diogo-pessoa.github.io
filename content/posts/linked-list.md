@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = 2024-06-05
 title = "Linked Lists"
 description = ""
@@ -22,7 +22,6 @@ element, and a tail node, which is the last element.
 In some variations, like doubly linked lists, each node also has a reference to the
 previous node, will explore on separate note.
 
-- [Conventions]({{< ref "conventions-used-in-notes" >}} "conventions-used")
 - [My basic implementation of a linked list in python](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/dataStructures/linkedlist)
 
 ## The Big O Notation of Linked Lists Operations
