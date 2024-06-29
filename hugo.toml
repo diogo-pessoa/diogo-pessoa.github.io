@@ -72,7 +72,7 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "Annotations"
 weight = 2
-url = "diogo-pessoa.github.io/annotations"
+url = "/annotations"
 
 [[languages.en.menu.main]]
 name = "About"
