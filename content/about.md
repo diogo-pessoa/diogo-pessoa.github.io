@@ -4,6 +4,7 @@ description = ""
 date = "2024-05-30"
 aliases = ["about", "contact"]
 author = "Diogo Pessoa"
+draft = true
 +++
 
 ## none of the above
@@ -40,7 +41,6 @@ can't stand the judgement of the nonexistent reader.
 * If you're still reading any of this. I created a separate page with to help understand
   the
   structure.
-    * [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
 * I'll eventually get to review the grammar and structures `(self-concious, remember?)`.
   But the goal is to jot down notes and write to retain ideas. Not to write a
   book. `(yet... nah, seriously I have no ilusions of writing a book.)` :
