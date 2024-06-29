@@ -14,7 +14,7 @@ categories = ["algorithms"]
 
 ## Summary
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 - [My solution](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/leetCode/palindromeints)
 - [LeetCode problem](https://leetcode.com/problems/palindrome-number/)
 

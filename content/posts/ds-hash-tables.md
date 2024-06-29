@@ -13,7 +13,7 @@ categories = ["Data Structures"]
 
 ## Conventions used in my notes
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 - [My basic implementation of a hash table in python](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/dataStructures/hash_table)
 
 ## Hash Tables

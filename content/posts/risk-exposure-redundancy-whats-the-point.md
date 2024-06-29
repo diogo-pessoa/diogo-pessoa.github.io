@@ -17,7 +17,7 @@ categories = ["system-design", "reflections"]
 My experience in assessing risk in distributed systems and the scary reality of the
 building brittle microservices.
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 
 ## Fragility and robustness
 
@@ -52,6 +52,16 @@ the first in the room to talk about it. It disarms others, it also gets you head
 right spot.
 
 ## Cool, we're now super cool-headed (monk level shit), back to System design.
+
+Just before we start another thought to consider:
+
+**_"If a factory is torn down but the rationality which produced it is left standing,
+then that rationality will simply produce another factory. If a revolution destroys a
+government, but the systematic patterns of thought that produced that government are
+left intact, then those patterns will repeat themselves. . . . There’s so much talk
+about the system. And so little understanding."_** – Robert Pirsig. 
+
+—ROBERT PIRSIG, Zen and the Art of Motorcycle Maintenance
 
 ### High Scalable, but is it?
 
@@ -88,3 +98,5 @@ and `quality` output. The rest is bullshit.
 
 1. [Nicholas Nassim Taleb, Anti fragile](https://en.wikipedia.org/wiki/Antifragile)
 2. [Normal Accidents](https://en.wikipedia.org/wiki/Normal_Accidents)
+3. [Thinking in Systems](https://donellameadows.org/systems-thinking-book-sale/)
+4. [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)

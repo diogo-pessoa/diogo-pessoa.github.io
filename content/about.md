@@ -2,25 +2,9 @@
 title = "About"
 description = ""
 date = "2024-05-30"
-aliases = ["about-us", "contact"]
+aliases = ["about", "contact"]
 author = "Diogo Pessoa"
 +++
-
-{{< toc >}}
-
-## If you're a recruiter or a fellow Engineer, looking to get in touch
-
-* If you're a recruiter of a very cool company with the next life-changing project
-  looking
-  for a serious, brilliant, and `extremity humble` professional. Get in touch.
-* If you're a fellow Engineer, looking to chat about tech, or liked one of the
-  notes `(do tell me why? I'm puzzled)`.
-
-### Contact
-
-* [book a chat](https://calendly.com/diogopessoa/30min)
-* [linkedin](https://www.linkedin.com/in/diogopessoa/)
-* [github](https://github.com/diogo-pessoa)
 
 ## none of the above
 

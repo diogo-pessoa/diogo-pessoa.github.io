@@ -19,7 +19,7 @@ them. The Lego brick system is a fantastic analogy for modular systems.
 My reflection in this post though is that hiring new talent to build such systems should
 be about the "bricks".
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 
 ### The Lego System, system design and the Bezos Api-mandate
 

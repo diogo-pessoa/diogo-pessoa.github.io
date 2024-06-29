@@ -5,8 +5,8 @@ title = "Matrix Manipulations in python"
 description = ""
 slug = "matrix-python"
 authors = ["Diogo Pessoa"]
-tags = ["python", "data-structures", "algorithms"]
-categories = ["algorithms", "data-structures"]
+tags = ["python", "data-structures", "algorithms", "Matrix"]
+categories = ["algorithms", "data-structures", "Matrix"]
 
 +++
 
@@ -19,7 +19,7 @@ something one uses every day.
 
 **Matrix:** 2D array (matrix) with given dimensions (rows and columns).
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 - **My implementation:**
     - [Matrix](https://github.com/diogo-pessoa/coding-exercises-for-interviews/blob/main/dataStructures/matrix/Matrix.py)
     - [Matrix Tests](https://github.com/diogo-pessoa/coding-exercises-for-interviews/blob/main/dataStructures/matrix/test_Matrix.py)

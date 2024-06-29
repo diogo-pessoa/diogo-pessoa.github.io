@@ -20,7 +20,7 @@ time to play with both and understand `(and really explore)` the differences and
 cases. While at it, I'll also explore Async IO in Python, as I fell it's as good time as
 any.
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 - [My implementations](#)
 
 ## Definitions

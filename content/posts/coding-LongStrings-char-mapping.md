@@ -14,7 +14,7 @@ categories = ["algorithms"]
 
 ## Summary
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 - [My implementation of LongStrings](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/algorithms/manipulateLongStrings)
 
 ## Notes

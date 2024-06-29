@@ -28,7 +28,7 @@ objects.
 - Adjacency matrix is a way to represent a graph in a matrix form.
 - Adjacency list is a way to represent a graph in a list form.
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 - [My implementation of Graphs](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/dataStructures/graph)
 
 ### Graph Representation

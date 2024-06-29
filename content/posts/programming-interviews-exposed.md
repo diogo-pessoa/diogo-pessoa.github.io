@@ -24,7 +24,7 @@ preparing and sitting through an interview.
 
 ### Conventions Used in all my notes
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 
 ## Notes from book
 

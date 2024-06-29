@@ -19,7 +19,7 @@ I see this approach often when reading code with a functional programming approa
 I've been meaning to try it out and write about to weight the pros and cons. Then, have a quick
 summary as reference when using.
 
-- [Conventions]({{< ref "posts/conventions-used-in-notes" >}} "conventions-used")
+- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
 - [My implementation](https://github.com/diogo-pessoa/coding-exercises/blob/main/functional-programming/MapTransform.py)
 
 ## Table of Contents
