@@ -16,7 +16,7 @@ categories = ["finance"]
 
 ### Convention used in this note
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 
 ## Glossary of terms
 

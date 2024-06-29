@@ -28,7 +28,7 @@ filled except possibly for the last level, which is filled from left to right.
 There's no guarantee of order in a heap (compared to a binary search tree). Making it
 less efficient for searching.
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 - [My implementation of Heaps](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/dataStructures/heap)
 
 ## Operations

@@ -19,7 +19,7 @@ something one uses every day.
 
 **Matrix:** 2D array (matrix) with given dimensions (rows and columns).
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 - **My implementation:**
     - [Matrix](https://github.com/diogo-pessoa/coding-exercises-for-interviews/blob/main/dataStructures/matrix/Matrix.py)
     - [Matrix Tests](https://github.com/diogo-pessoa/coding-exercises-for-interviews/blob/main/dataStructures/matrix/test_Matrix.py)

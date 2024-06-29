@@ -13,7 +13,7 @@ categories = ["Data Structures"]
 
 ## Summary
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 - [My basic implementation of a doubly linked list in python](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/dataStructures/doublylinkedlist)
 
 ## Big O notation Table Double linkedList

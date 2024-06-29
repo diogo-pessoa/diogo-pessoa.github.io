@@ -70,19 +70,14 @@ url = "https://www.linkedin.com/in/diogopessoa/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "latest-notes"
+name = "Annotations"
 weight = 2
-url = "posts/"
+url = "diogo-pessoa.github.io/annotations"
 
 [[languages.en.menu.main]]
-name = "by-tags"
-weight = 3
-url = "tags/"
-
-[[languages.en.menu.main]]
-name = "by-category"
-weight = 4
-url = "categories/"
+name = "About"
+weight = 1
+url = "/about"
 
 
 [[module.mounts]]

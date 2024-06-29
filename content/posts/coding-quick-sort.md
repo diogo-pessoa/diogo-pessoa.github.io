@@ -19,7 +19,7 @@ from the array and partitioning the other elements into two sub-arrays according
 whether they are less than or greater than the pivot. The sub-arrays are then sorted
 recursively.
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 - [My implementation](https://github.com/diogo-pessoa/coding-exercises-for-interviews/tree/main/algorithms/quicksort)
 
 ### How it works

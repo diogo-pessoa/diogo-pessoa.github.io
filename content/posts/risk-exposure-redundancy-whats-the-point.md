@@ -17,7 +17,7 @@ categories = ["system-design", "reflections"]
 My experience in assessing risk in distributed systems and the scary reality of the
 building brittle microservices.
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 
 ## Fragility and robustness
 

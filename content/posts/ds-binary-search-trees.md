@@ -19,7 +19,7 @@ called the root, and the nodes below the root are called children. Each node can
 zero or more children. The nodes that have the same parent are called siblings. The node
 at the bottom of the tree is called a leaf node.
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 - [My basic implementation of a binary search tree in python](https://github.com/diogo-pessoa/coding-exercises-for-interviews/blob/main/dataStructures/tree/BinarySearchTree.py)
 
 ## Types of Trees

@@ -13,7 +13,7 @@ categories = ["algorithms", "data-structures", "Matrix"]
 
 ## Summary
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 - **My implementation:**
     - [Matrix - ZigZagConversion](https://github.com/diogo-pessoa/coding-exercises/tree/main/leetCode/zigzagconversion)
     - [LeetCode Problem](https://leetcode.com/problems/zigzag-conversion/)

@@ -17,7 +17,7 @@ categories = ["Data Structures"]
 As I walk through different Data structures. I noticed each has a best fit to a specific
 problem. Since everything has a trade-off. Let me try to cover a few here.
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 
 ### specific trade-offs
 

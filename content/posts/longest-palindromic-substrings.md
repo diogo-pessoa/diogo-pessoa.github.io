@@ -14,7 +14,7 @@ categories = ["algorithms"]
 
 ## Summary
 
-- [Conventions](https://diogo-pessoa.github.io/posts/conventions)
+
 - [My solution](
 
 ## Big O and performance
