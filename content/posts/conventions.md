@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = 2024-06-07
 title = "Conventions used in my notes"
 slug = "conventions"

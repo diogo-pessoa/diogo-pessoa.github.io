@@ -17,8 +17,8 @@ noClasses = false
 [params]
 author = "Diogo Pessoa"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Diogo Pessoa notes"
-keywords = "blog,devops,personal,data-analytics"
+description = "Diogo Pessoa"
+keywords = "LandingPage,devops,data-analytics"
 info = ["DevOps Enginner", "Data Nerd"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
@@ -69,15 +69,15 @@ url = "https://www.linkedin.com/in/diogopessoa/"
 [languages.en]
 languageName = ":uk:"
 
-[[languages.en.menu.main]]
-name = "Annotations"
-weight = 2
-url = "/annotations"
-
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "/about"
+#[[languages.en.menu.main]]
+#name = "Annotations"
+#weight = 2
+#url = "/annotations"
+#
+#[[languages.en.menu.main]]
+#name = "About"
+#weight = 1
+#url = "/about"
 
 
 [[module.mounts]]
