@@ -9,14 +9,8 @@ draft = false
 
 ## About me
 
-I'm DevOps enthusiast, passionate about automating the software release process. Automate yourself
-out of a job. I believe in delivering secure, fast, and efficient pipelines allowing for quick
-deployments, testable features, and zero downtime deployments. The new
-versions of your software should improve the customer's experience.
-Good software is software that delivers customer value and adapts. I am accustomed to working in
-fluent environments, leveraging modern
-technologies and re-designing often. Delivering consistent, adaptable software continuously.
-Automation and adaptability are key for reliable systems.
+Experienced Cloud Solution Architect & DevOps Engineer with expertise in cloud architecture, automation, and security. Adept at technical consulting, cloud migrations, and infrastructure modernization, with proven ability to optimize performance and cost efficiency. Extensive hands-on experience in AWS and GCP production environments. Passionate about automation, CI/CD pipelines, security best practices, and operational excellence.
+
 
 ### Also a Data Nerd
 
